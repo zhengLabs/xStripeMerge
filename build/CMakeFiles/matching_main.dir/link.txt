@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -g   CMakeFiles/matching_main.dir/src/matching_main.cc.o CMakeFiles/matching_main.dir/src/matching_generator.cc.o CMakeFiles/matching_main.dir/src/stripe.cc.o  -o matching_main -rdynamic 

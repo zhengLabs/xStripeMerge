@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/matching_generator.hh
+iostream
+-
+list
+-
+memory
+-
+queue
+-
+unordered_map
+-
+set
+-
+vector
+-
+stack
+-
+stripe.hh
+../include/stripe.hh
+
+../include/stripe.hh
+algorithm
+-
+random
+-
+string
+-
+vector
+-
+unordered_set
+-
+
+/home/htf/下载/xRS-merge (table)/src/matching_generator.cc
+matching_generator.hh
+/home/htf/下载/xRS-merge (table)/src/matching_generator.hh
+iostream
+/home/htf/下载/xRS-merge (table)/src/iostream
+stdarg.h
+-
+stack
+-
+unordered_set
+-
+sys/time.h
+-
+
+/home/htf/下载/xRS-merge (table)/src/matching_main.cc
+sys/time.h
+-
+matching_generator.hh
+/home/htf/下载/xRS-merge (table)/src/matching_generator.hh
+
+/home/htf/下载/xRS-merge (table)/src/stripe.cc
+stripe.hh
+/home/htf/下载/xRS-merge (table)/src/stripe.hh
+fstream
+-
+iostream
+-
+stdarg.h
+-
+
